@@ -1,1 +1,1 @@
-# estructura_html
+# Estructura básica para un documento html
